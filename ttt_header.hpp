@@ -1,0 +1,2 @@
+void gridPosition();
+void resetGrid();
