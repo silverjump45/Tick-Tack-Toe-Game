@@ -47,4 +47,5 @@ int main(){
                 std::cout << "Match tie\n";
             }
         }
+    }
 }
