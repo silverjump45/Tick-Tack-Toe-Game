@@ -69,7 +69,7 @@ int chk(int ck) {
 
         return ck;
     }
-
+    return 0;
 }
 
 
@@ -132,4 +132,5 @@ bool chkwin() {
             return true;
         }
     }
+    return 0;
 }
